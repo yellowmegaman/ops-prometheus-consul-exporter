@@ -1,0 +1,6 @@
+---
+prometheus-consul-exporter:
+  version: 0.4.0
+  ram: 64
+  port: 9107
+  count: 1
